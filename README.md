@@ -20,3 +20,11 @@ If you would like to contribute by adding a data structure or modifying one:
 
 Any contribution is appreciated :)
 
+## Format
+
+Generally each file will be formatted about the same.
+
+There will be:
+* An explaination of the data structure
+* The python implementation
+* And example usage
