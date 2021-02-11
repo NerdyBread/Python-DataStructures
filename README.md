@@ -29,7 +29,7 @@ There will usually be:
 * An explaination of the data structure
 * The python implementation
 * And example usage
-* Error checking and things like that are not necessary, but feel free to add them
+* Error checking and things like that are not necessary, but feel free to add it
 
 ## Requests
 
