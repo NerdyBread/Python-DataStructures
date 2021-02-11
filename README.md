@@ -30,3 +30,7 @@ There will usually be:
 * The python implementation
 * And example usage
 * Error checking and things like that are not necessary, but feel free to add them
+
+## Requests
+
+If there is a data structure you want to see added, create an issue labeled inhancement and I will (try to) implement it.
