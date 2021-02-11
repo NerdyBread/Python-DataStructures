@@ -10,7 +10,8 @@ As of now it contains:
 
 * Stack
 * Queue
-* Note to self - add (doubly) linked list
+* Linked List
+* I have to clean up the doubly linked list but that should be up soon
 
 ## Contributions
 
