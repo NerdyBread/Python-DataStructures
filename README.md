@@ -4,7 +4,7 @@
 
 This repository containa simple implementations of data structures written in Python3.
 
-I'm hoping it will give a baseline for people looking to learn data structures.
+I'm hoping it will give a starting point for people looking to learn data structures.
 
 As of now it contains:
 
