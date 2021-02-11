@@ -9,7 +9,8 @@ I'm hoping it will give a baseline for people looking to learn data structures.
 As of now it contains:
 
 * Stack
-* Linked List
+* Queue
+* Note to self - add (doubly) linked list
 
 ## Contributions
 
