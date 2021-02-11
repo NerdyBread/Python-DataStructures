@@ -25,7 +25,7 @@ Any contribution is appreciated :)
 
 Generally each file will be formatted about the same.
 
-There will be:
+There will usually be:
 * An explaination of the data structure
 * The python implementation
 * And example usage
