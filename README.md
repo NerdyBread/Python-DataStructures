@@ -2,7 +2,7 @@
 
 ## What is it?
 
-This repository containa simple implementations of data structures written in python3
+This repository containa simple implementations of data structures written in Python3
 
 I'm hoping it will give a baseline for people looking to learn data structures
 
