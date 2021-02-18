@@ -11,7 +11,6 @@ As of now it contains:
 * Stack
 * Queue
 * Linked List
-* I have to clean up the doubly linked list but that should be up soon
 
 ## Contributions
 
