@@ -1,4 +1,4 @@
-# Github problem #20 using a stack
+# Leetcode problem #20 using a stack
 
 
 # In this problem I treat an array as a stack but the same idea applies
