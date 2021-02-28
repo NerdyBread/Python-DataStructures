@@ -2,7 +2,7 @@
 
 ## What is it?
 
-This repository containa simple implementations of data structures written in Python3.
+This repository contains simple implementations of data structures written in Python3.
 
 The goal is to give a starting point for people looking to learn data structures.
 
@@ -10,6 +10,7 @@ As of now it contains:
 
 * Stack
 * Queue
+* HashTable
 * Linked List
 
 ## Contributions
