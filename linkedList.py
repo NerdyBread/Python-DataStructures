@@ -17,7 +17,7 @@
 	#   head  pointer                 Linked lists end with None
 	#    (6)   -->   (4)   -->   (2)   -->   None
 
-# Any given linked list is just it's head, and the rest of the list is accessed by it
+# Any given linked list is just its head, and the rest of the list is accessed by it
 
 class Node:
 	def __init__(self, val):
